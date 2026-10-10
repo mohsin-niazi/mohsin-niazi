@@ -41,6 +41,12 @@ I enjoy turning operational problems into dependable processes and practical sof
 
 ## Selected work
 
+### LedgerLens
+A local-first browser tool that checks finance CSVs for duplicate references, missing fields, invalid dates, and unreadable amounts. It exports a findings report without uploading the source file.
+
+[Try LedgerLens](https://mohsin-niazi.github.io/ledgerlens/) · [View the source](https://github.com/mohsin-niazi/ledgerlens)
+
+
 ### Invoice ERP
 A bilingual desktop ERP project built with C#/.NET, covering invoices, quotations, products, customers, expenses, payables, reporting, and PDF output.
 
